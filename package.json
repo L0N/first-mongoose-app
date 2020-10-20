@@ -1,0 +1,13 @@
+{
+  "name": "first-mongo-app",
+  "version": "1.0.0",
+  "description": "Learning to connect express app with a mongo db on atlas",
+  "main": "app.js",
+  "author": "Frank Manue Jr (fpj.manue.jnr@gmail.com)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
